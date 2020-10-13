@@ -1,0 +1,15 @@
+.jumbotron{
+    font-style: italic;
+    font-weight: bold;
+    padding-left: 0%;
+    font-size: large;
+    background-color: greenyellow;
+}
+
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 0em;
+    color: darkred;
+    font-size: 400%;
+    text-align: center;
+}
